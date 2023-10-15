@@ -1,6 +1,6 @@
 [Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
-<img src="images/logo_stargazers_bug.svg" alt="Stargazers logo" style="width:300px;">
+<img src="images/logo_bigstar.svg" alt="BigStar logo" style="width:300px;">
 
 # Collectibles
 
